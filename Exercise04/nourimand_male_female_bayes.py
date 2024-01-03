@@ -13,8 +13,6 @@ Next, it computes the accuracy of the 3 aforementioned classification algorithm
 and prints them.
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 import numpy as np
 
