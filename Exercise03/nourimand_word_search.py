@@ -7,8 +7,6 @@ space for any input word, then for any input word returns the three (3) most
 similar words (the most similar should be the input word itself)).
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import numpy as np
