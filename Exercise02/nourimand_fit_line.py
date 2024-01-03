@@ -8,8 +8,6 @@ linear model. The function my_linfit(x,y) solves and returns a and b. I used my
 own derivations in the function using LSM.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import matplotlib.pyplot as plt
