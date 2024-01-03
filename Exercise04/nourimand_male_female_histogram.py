@@ -9,8 +9,6 @@ Ex 04, title: Male and female - Bayesian classifier part (a):Height and weight
   ranges ([80, 220] for height and [30, 180] for weight)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nouriand@tuni.fi
 """
 
 import numpy as np
