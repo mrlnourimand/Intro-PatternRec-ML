@@ -8,8 +8,6 @@ the most likely class (highest a priori) to all test samples.
 After that it computes their classification accuracy.)
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 import numpy as np
 
