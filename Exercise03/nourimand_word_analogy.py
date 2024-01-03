@@ -14,8 +14,6 @@ I used np.argsort() function, which computes the indirect sorting of an array
 shape as the input array, in sorted order.
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import numpy as np
