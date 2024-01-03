@@ -9,8 +9,6 @@ model, Decision tree regressor, and Random forest regressor. For each of them
 prints MSE.
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import numpy as np
