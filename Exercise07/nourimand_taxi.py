@@ -10,8 +10,6 @@ drop passenger). Our task is to implement Q-learning to solve the Taxi problem
 with optimal policy.
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 # Load OpenAI Gym and other necessary packages
