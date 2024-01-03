@@ -15,8 +15,6 @@ Ex 05, title: Neural network learning (CIFAR-10).
  epochs (it was 47.84% accuracy in 100 epochs).
 
 Creator: Maral Nourimand
-Student id number: 151749113
-Email: maral.nourimand@tuni.fi
 """
 
 import pickle
